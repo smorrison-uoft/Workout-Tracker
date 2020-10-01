@@ -12,6 +12,14 @@ This fitness tracker allows users to input their workouts daily! Great for any a
 
 ## Usage
 
-<img width="1440" alt="Screen Shot 2020-10-01 at 3 16 27 PM" src="https://user-images.githubusercontent.com/64607428/94854144-74219f80-03fa-11eb-8bfa-ad743b30e11f.png">
+Click on new work out
 
-<img width="1440" alt="Screen Shot 2020-10-01 at 3 16 18 PM" src="https://user-images.githubusercontent.com/64607428/94854151-78e65380-03fa-11eb-9a32-c78de3583ffe.png">
+<img width="1431" alt="Screen Shot 2020-10-01 at 3 16 27 PM" src="https://user-images.githubusercontent.com/64607428/94854757-6587b800-03fb-11eb-8ab1-7d421746a4a7.png">
+
+Add your workout
+
+<img width="1417" alt="Screen Shot 2020-10-01 at 3 28 16 PM" src="https://user-images.githubusercontent.com/64607428/94854763-6882a880-03fb-11eb-912f-4ff58bfb7f30.png">
+
+Track your results in the dashboard
+
+<img width="1433" alt="Screen Shot 2020-10-01 at 3 16 18 PM" src="https://user-images.githubusercontent.com/64607428/94854773-6b7d9900-03fb-11eb-85c7-bedc415213dd.png">
