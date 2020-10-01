@@ -25,5 +25,5 @@ This fitness tracker allows users to input their workouts daily! Great for any a
 <img width="1433" alt="Screen Shot 2020-10-01 at 3 16 18 PM" src="https://user-images.githubusercontent.com/64607428/94854773-6b7d9900-03fb-11eb-85c7-bedc415213dd.png">
 
 
-##live app:
+## live app:
 https://arcane-forest-93462.herokuapp.com/
