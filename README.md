@@ -7,7 +7,7 @@ This fitness tracker allows users to input their workouts daily! Great for any a
 ## Installation
 
 1. Install node: go to nodejs.org and download latest version and walk through the installation instructions.
-2. Go to project folder and enter: npm install express mongojs mongoose morgan path.
+2. Go to project folder and enter: npm install express, mongojs, mongoose, and morgan path.
 3. Run server on port 3000 by entering node server.js.
 
 ## Usage
