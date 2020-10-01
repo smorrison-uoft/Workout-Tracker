@@ -18,7 +18,7 @@ app.use(express.json());
 app.use(express.static("public"));
 
 mongoose.connect(
-    process.env.MONGODB_URI || 'mongodb://localhost/FitnessTracker',
+    process.env.MONGODB_URI || 'mongodb://localhost/polar-mesa-22041',
     {
       useNewUrlParser: true,
       useUnifiedTopology: true,
